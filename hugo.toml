@@ -4,7 +4,6 @@ defaultContentLanguage = 'en'
 theme = 'mini'
 title = 'Oopsse'
 paginate = 3
-dateFormat = 
 
 [permalinks]
   posts = "/posts/:title/"
