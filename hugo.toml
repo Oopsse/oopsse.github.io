@@ -8,7 +8,6 @@ paginate = 3
 [permalinks]
   posts = "/posts/:title/"
 
-
 [params]
   # Site Author
   author = 'Oopsse'
@@ -36,8 +35,6 @@ paginate = 3
   hiddenPostSummaryInHomePage = false
   # Website copyright, default: '© Copyright 2021 ❤️ {params.author}'
   #copyright: ''
-
-
 
 [markup]
   [markup.goldmark]
