@@ -1,9 +1,10 @@
 baseURL = 'https://oopsse.github.io/'
 languageCode ='fr-FR'
-defaultContentLanguage = 'fr'
+defaultContentLanguage = 'en'
 theme = 'mini'
 title = 'Oopsse'
 paginate = 3
+dateFormat = 
 
 [permalinks]
   posts = "/posts/:title/"
