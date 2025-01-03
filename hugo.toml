@@ -3,6 +3,11 @@ languageCode ='fr-FR'
 defaultContentLanguage = 'fr'
 theme = 'mini'
 title = 'Oopsse'
+paginate = 3
+
+[permalinks]
+  posts = "/posts/:title/"
+
 
 [params]
   # Site Author
